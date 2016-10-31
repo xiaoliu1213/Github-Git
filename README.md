@@ -1,3 +1,6 @@
+我fork你的项目，现在在练习Pull request请求。
+
+
 #Github与Git简明教程  
 ***  
 - [初识Github](https://github.com/lavor-zl/Github-Git/blob/master/初识Github.md)  
